@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Wichita, Kansas with a population of over 397k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in Wichita, Kansas, US",
+  "export_job_id": "2837bdb2-fce4-4929-9103-a31ef16e220d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 594168,
+  "location_name": "Wichita",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-wichita-kansas-us-sample-594168",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/594168/beamstation_594168_restaurants-us-ks_SAMPLE_DIST.csv",
+  "sample_pct": 9.97,
+  "sample_records": 123,
+  "sample_sha256": "525b02dfacaf137cedaffabad862d731e2bdc44771143397ad198a00ffff772e",
+  "sample_size_bytes": 437222,
+  "total_records": 1234,
+  "updated_at": "2026-04-09T09:45:06.869967+00:00"
+}
