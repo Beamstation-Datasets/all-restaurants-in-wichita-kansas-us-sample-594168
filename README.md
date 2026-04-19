@@ -1,6 +1,6 @@
 # All Restaurants in Wichita, Kansas, US
 
-> Free BeamStation sample export with 123 rows and masked direct-contact fields.
+> Free BeamStation sample export with 122 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `594168` |
 | Location | Wichita |
 | Category | Restaurants |
-| Full dataset size | 1,234 records |
-| Free sample size | 123 records (9.97%) |
-| Last export | 2026-04-09T09:45:06.869967+00:00 |
+| Full dataset size | 1,220 records |
+| Free sample size | 122 records (10.0%) |
+| Last export | 2026-04-16T09:40:35.413551+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-wichita-kansas-us-sample-594168/releases/download/sample-latest/beamstation_594168_restaurants-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
